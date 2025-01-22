@@ -7,6 +7,8 @@ This repository contains the Jittor version implementation of the following pape
 
 🔥 Our paper is accepted by IEEE Computer Vision and Pattern Recognition (CVPR) 2024 !!!
 
+The PyTorch version implementation is available at [CorrMatch](https://github.com/BBBBchan/CorrMatch)
+
 ## Overview
 CorrMatch provides a solution for mining more high-quality regions from the unlabeled images to leverage the unlabeled data more efficiently for consistency regularization.
 ![avatar](./images/cvpr_pipeline.png "pipeline")
